@@ -2873,20 +2873,21 @@
 /* Intro */
 
 	#intro {
-		background: url("../../images/Homescreen.jpg") no-repeat;
-		background-size: cover;
+		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
-		
+		background-repeat: repeat, no-repeat;
 	}
 
-/* One */ #one {
-	background: url("images/overlay.png"), url("../../images/two.jpg");
+/* One */
+
+	#one {
+		background: url("images/overlay.png"), url("../../images/one.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
-}
-
+	}
 
 /* Two */
 
