@@ -1,18 +1,19 @@
-ZeroFour by HTML5 UP
+Helios by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A responsive general purpose site template design named as such because it's the fourth
-design up here (very creative I know). Has plenty of room for all sorts of content
-and even multilevel drop down menus.
+This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
+to take advantage of larger (well, wider) displays while still being capable of gracefully
+scaling down to fit all manner of smaller ones.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Demo images* courtesy of Michael Domaradzki, an awesome photographer I met over at
+deviantART. Check out his portfolio here:
 
-(* = Not included)
+http://md.photomerchant.net/
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Michaels's work without his explicit permission!)
 
 AJ
 n33.co @n33co dribbble.com/n33
@@ -21,7 +22,7 @@ n33.co @n33co dribbble.com/n33
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Michael Domaradzki (md.photomerchant.net)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
@@ -33,4 +34,6 @@ Credits:
 		background-size polyfill (github.com/louisremi)
 		Respond.js (j.mp/respondjs)
 		jquery.dropotron (n33.co)
+		jquery.scrolly (n33.co)
+		jquery.onvisible (n33.co)
 		Skel (skel.io)
